@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/list/list",
+    "pages/add/add"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "pink",
+    "navigationBarTitleText": "大魔王",
+    "navigationBarTextStyle":"black"
+  }
+}
